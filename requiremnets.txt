@@ -1,0 +1,16 @@
+The Libraries that need to be installed are written in the requirements.txt file
+opencv-python - 4.6.0.66
+numpy - 1.23.1
+matplotlib - 3.5.2
+mediapipe - 0.8.10.1
+pyautogui - 0.9.53
+pillow - 9.2.0
+
+
+Install the following necessary pip
+pip install opencv-python
+pip install numpy
+pip install matplotlib
+pip install mediapipe
+pip install PyautoGUI
+pip install PIL
